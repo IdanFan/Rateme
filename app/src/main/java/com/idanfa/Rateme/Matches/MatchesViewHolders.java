@@ -1,4 +1,4 @@
-package com.simcoder.tinder.Matches;
+package com.idanfa.Rateme.Matches;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.simcoder.tinder.Chat.ChatActivity;
+import com.idanfa.Rateme.Chat.ChatActivity;
 import com.simcoder.tinder.R;
 
 /**

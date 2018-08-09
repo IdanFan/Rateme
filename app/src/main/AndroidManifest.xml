@@ -11,19 +11,19 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity" />
-        <activity android:name=".ChooseLoginRegistrationActivity">
+        <activity android:name="com.idanfa.Rateme.MainActivity" />
+        <activity android:name="com.idanfa.Rateme.ChooseLoginRegistrationActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".RegistrationActivity" />
-        <activity android:name=".LoginActivity" />
-        <activity android:name=".SettingsActivity" />
-        <activity android:name=".Matches.MatchesActivity" />
-        <activity android:name=".Chat.ChatActivity"></activity>
+        <activity android:name="com.idanfa.Rateme.RegistrationActivity" />
+        <activity android:name="com.idanfa.Rateme.LoginActivity" />
+        <activity android:name="com.idanfa.Rateme.SettingsActivity" />
+        <activity android:name="com.idanfa.Rateme.Matches.MatchesActivity" />
+        <activity android:name="com.idanfa.Rateme.Chat.ChatActivity"></activity>
     </application>
 
 </manifest>

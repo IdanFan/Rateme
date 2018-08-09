@@ -1,4 +1,4 @@
-package com.simcoder.tinder.Matches;
+package com.idanfa.Rateme.Matches;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;

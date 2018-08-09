@@ -1,4 +1,4 @@
-package com.simcoder.tinder.Matches;
+package com.idanfa.Rateme.Matches;
 
 
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.simcoder.tinder.Cards;
+package com.idanfa.Rateme.Cards;
 
 import android.content.Context;
 import android.view.LayoutInflater;
