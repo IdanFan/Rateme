@@ -1,4 +1,4 @@
-package com.simcoder.tinder;
+package com.idanfa.Rateme;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

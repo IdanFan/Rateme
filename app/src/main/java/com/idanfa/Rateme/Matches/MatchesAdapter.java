@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 import com.bumptech.glide.Glide;
-import com.simcoder.tinder.R;
+import com.idanfa.Rateme.R;
 
 import java.util.List;
 

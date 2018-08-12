@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "978492294050",
+    "firebase_url": "https://rateme-c5beb.firebaseio.com",
+    "project_id": "rateme-c5beb",
+    "storage_bucket": "rateme-c5beb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978492294050:android:06c4c14cee66cfa5",
+        "android_client_info": {
+          "package_name": "com.idanfa.Rateme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978492294050-12q47j3dgtvne3c94jd34nu8dv4qe0jl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.idanfa.Rateme",
+            "certificate_hash": "057a412e90c071fc8d0c421635178dab6b9ae6f2"
+          }
+        },
+        {
+          "client_id": "978492294050-63tqcg8e5smjhmj9g1tqo7s9vdnmtl05.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPg0JAP_1oLbIR_Z5lXgKxpUSBHaII2oM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978492294050-63tqcg8e5smjhmj9g1tqo7s9vdnmtl05.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

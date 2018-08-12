@@ -1,4 +1,4 @@
-package com.simcoder.tinder;
+package com.idanfa.Rateme;
 
 import org.junit.Test;
 

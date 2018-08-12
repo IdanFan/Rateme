@@ -8,7 +8,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.idanfa.Rateme.Chat.ChatActivity;
-import com.simcoder.tinder.R;
+import com.idanfa.Rateme.R;
 
 /**
  * Created by manel on 10/31/2017.
